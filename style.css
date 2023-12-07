@@ -1,0 +1,25 @@
+label{
+    display: block;
+    margin-bottom: 7px;
+}
+h1{
+    text-align: center;
+    color: white;
+    background-color: red;
+    box-shadow: 5px 5px 5px black;
+}
+fieldset{
+    margin-top: 20px;
+}
+.resetb{
+    padding: 10px 25px;
+    background-color: red;
+    color: white;
+    margin-top: 10px;
+    border-radius: 5px
+    ;
+    font-size: 20px;
+    border: none;
+    box-shadow: 5px 5px 5px black;
+    margin-left: 10px;
+}
